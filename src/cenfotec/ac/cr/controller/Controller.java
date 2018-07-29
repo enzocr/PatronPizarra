@@ -28,7 +28,7 @@ public class Controller {
 		System.out.println("Verificar si la fuente de conocimiento puede contribuir...");
 		System.out.println("Revisando condicionales de la fuente de conocimento...");
 		System.out.println("");
-		System.out.println("Cumple con las condiciones establecidas? SI (1) ||  NO (2): ");
+		System.out.println("Cumple con las condiciones establecidas? SI (1) || NO (2): ");
 		System.out.println("");
 		decision = Integer.parseInt(in.readLine());
 		if (decision == 1) {
